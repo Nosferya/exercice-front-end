@@ -1,0 +1,50 @@
+header{
+background: url("photo/header.png");
+height: 170px;
+margin-top: -35px;
+margin-left: -10px;
+margin-right: -10px;
+
+}
+
+
+.titleheader{
+position:relative;
+left: 30px;
+top: 40px;
+color: black;
+font-size: 25px;
+font-family: 'Shadows Into Light', cursive;
+}
+
+nav{
+  margin-left: -10px;
+  margin-right: -10px;
+  position: relative;
+}
+
+nav ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #000000;
+}
+
+nav li {
+   float: left;
+}
+
+nav li a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 20px;
+   font-family: 'Shadows Into Light', cursive;
+}
+
+nav li a:hover {
+   background-color: #FFD700;
+}

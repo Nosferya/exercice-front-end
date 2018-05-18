@@ -1,11 +1,14 @@
 footer
 {
-	background-color: #d6d6c2;
-	height: 150px;
+	background-color: #ffe44d;
+	height: 140px;
 	width: 100%;
-	border-top: 2px solid black;
-	display: flex;
-	justify-content: space-around; 	
+	border-top: 1px solid black;
+	display:flex;
+	justify-content: space-around;
+	margin-left:-10px;
+  margin-right: -10px;
+	position:relative;
 }
 
 
@@ -15,6 +18,8 @@ span
 	text-decoration: underline;
 	font-style: italic;
 	text-transform: uppercase;
+  font-family: 'Shadows Into Light', cursive;
+
 }
 
 li
@@ -32,6 +37,6 @@ a
 
 a:hover
 {
-	color: orange;
+	color: #FFD700;
 	text-decoration: underline;
 }
