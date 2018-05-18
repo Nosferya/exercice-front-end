@@ -1,1 +1,9 @@
+p {
+  text-align: justify;
+}
 
+.bttnmarg {
+position: relative;
+right: -5px;
+bottom: 10px;
+}
