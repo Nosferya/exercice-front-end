@@ -1,1 +1,37 @@
+footer
+{
+	background-color: #d6d6c2;
+	height: 150px;
+	width: 100%;
+	border-top: 2px solid black;
+	display: flex;
+	justify-content: space-around; 	
+}
 
+
+span
+{
+	font-weight: bold;
+	text-decoration: underline;
+	font-style: italic;
+	text-transform: uppercase;
+}
+
+li
+{
+	list-style: none;
+	line-height: 25px;
+
+}
+
+a
+{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover
+{
+	color: orange;
+	text-decoration: underline;
+}
