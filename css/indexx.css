@@ -7,5 +7,16 @@ img {
   border-style: solid;
   border-width: 2px;
   padding:5px 5px 5px 5px;
-  border-radius: 5px;
+  border-radius: 10px;
+  background-color: #FFD700;
+}
+.image {
+  border-radius: 40px;
+  border: 3px solid #FFD700;
+  opacity:0.9
+}
+#bton{
+  position:relative;
+  left: 300px;
+  top:20px;
 }
