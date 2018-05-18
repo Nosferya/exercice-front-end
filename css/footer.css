@@ -22,14 +22,14 @@ span
 
 }
 
-li
+footer li
 {
 	list-style: none;
 	line-height: 25px;
 
 }
 
-a
+footer a
 {
 	text-decoration: none;
 	color: black;
@@ -37,7 +37,7 @@ a
 
 }
 
-a:hover
+footer a:hover
 {
 	color: #FFD700;
 	text-decoration: underline;
