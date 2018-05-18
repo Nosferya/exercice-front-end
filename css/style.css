@@ -154,3 +154,15 @@ footer a:hover
 	color: white;
 
 }
+
+#overlay{
+background-color: black;
+height: 100%;
+width: 100%;
+position: fixed;
+z-index:2;
+display: none;
+
+
+
+}
